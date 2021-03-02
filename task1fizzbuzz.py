@@ -9,4 +9,3 @@ def fizz_buzz(a):
         return str(a)
 
 
-print(fizz_buzz(15))
